@@ -1,6 +1,4 @@
-// =======================================================
 // BAGIAN 1: DEFINISI KELAS-KELAS
-// =======================================================
 
 // Kelas dasar (Superclass)
 class Person {
@@ -196,9 +194,7 @@ class Club {
 }
 
 
-// =======================================================
 // BAGIAN 2: PROGRAM UTAMA (SIMULASI & PENGGUNAAN)
-// =======================================================
 
 // 1. Memuat objek-objek individu (Player, Coach, Staff)
 const coachBima = new Coach("C001", "Bima", "Sakti", "1976-01-23", "Head Coach");
