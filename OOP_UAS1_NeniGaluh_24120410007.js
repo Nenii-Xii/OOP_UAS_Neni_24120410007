@@ -210,7 +210,7 @@ u23Team.addCoach(coachBima);
 u23Team.addPlayer(playerEgy);
 u23Team.addPlayer(playerWitan);
 
-// 4. Buat objek Club utama
+// 4. Membuat objek Club utama
 const fcCakrawala = new Club("FC-CKW", "FC Cakrawala", "Stadion Cakrawala Megah");
 
 // 5. Daftarkan tim ke dalam klub
